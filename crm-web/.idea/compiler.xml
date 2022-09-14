@@ -10,5 +10,8 @@
         <module name="crm-web" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="crm-web" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
