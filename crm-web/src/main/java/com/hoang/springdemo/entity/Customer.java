@@ -1,5 +1,6 @@
 package com.hoang.springdemo.entity;
 import javax.persistence.*;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
